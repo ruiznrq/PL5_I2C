@@ -1,0 +1,9 @@
+
+State Machine - |I2Codec|idosce:inst|estado
+Name estado.stop estado.datos estado.ack estado.direccion estado.start estado.standby 
+estado.standby 0 0 0 0 0 0 
+estado.start 0 0 0 0 1 1 
+estado.direccion 0 0 0 1 0 1 
+estado.ack 0 0 1 0 0 1 
+estado.datos 0 1 0 0 0 1 
+estado.stop 1 0 0 0 0 1 

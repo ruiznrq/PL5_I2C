@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'idosce:inst|clk_200khz'
+Slack : -2.376
+TNS   : -48.121
+
+Type  : Slow Model Setup 'clk'
+Slack : -2.296
+TNS   : -25.541
+
+Type  : Slow Model Hold 'clk'
+Slack : -2.523
+TNS   : -2.523
+
+Type  : Slow Model Hold 'idosce:inst|clk_200khz'
+Slack : -0.293
+TNS   : -1.424
+
+Type  : Slow Model Recovery 'idosce:inst|clk_200khz'
+Slack : 0.585
+TNS   : 0.000
+
+Type  : Slow Model Removal 'idosce:inst|clk_200khz'
+Slack : -0.688
+TNS   : -15.690
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -19.380
+
+Type  : Slow Model Minimum Pulse Width 'suich[17]'
+Slack : -1.380
+TNS   : -1.380
+
+Type  : Slow Model Minimum Pulse Width 'idosce:inst|clk_200khz'
+Slack : -0.500
+TNS   : -31.000
+
+Type  : Fast Model Setup 'idosce:inst|clk_200khz'
+Slack : -0.594
+TNS   : -6.567
+
+Type  : Fast Model Setup 'clk'
+Slack : -0.473
+TNS   : -3.296
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.570
+TNS   : -1.570
+
+Type  : Fast Model Hold 'idosce:inst|clk_200khz'
+Slack : -0.232
+TNS   : -1.450
+
+Type  : Fast Model Recovery 'idosce:inst|clk_200khz'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Fast Model Removal 'idosce:inst|clk_200khz'
+Slack : -0.296
+TNS   : -6.534
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -19.380
+
+Type  : Fast Model Minimum Pulse Width 'suich[17]'
+Slack : -1.380
+TNS   : -1.380
+
+Type  : Fast Model Minimum Pulse Width 'idosce:inst|clk_200khz'
+Slack : -0.500
+TNS   : -31.000
+
+------------------------------------------------------------

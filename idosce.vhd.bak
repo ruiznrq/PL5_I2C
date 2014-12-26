@@ -1,0 +1,29 @@
+LIBRARY IEEE;
+USE  IEEE.STD_LOGIC_1164.all;
+USE  IEEE.STD_LOGIC_ARITH.all;
+USE  IEEE.STD_LOGIC_UNSIGNED.all;
+
+ENTITY idosce IS
+PORT
+(	
+	--Entradas que modifican el comportamiento
+	clk:	IN		STD_LOGIC;
+	en:	IN		STD_LOGIC;
+	addr: IN		STD_LOGIC_VECTOR (6 DOWNTO 0);
+	data: IN    STD_LOGIC_VECTOR (8 DOWNTO 0);
+);
+	
+END idosce;
+
+ARCHITECTURE idosce_arch OF idosce IS
+
+begin
+
+					
+	
+end architecture;
+			
+			
+		 
+			
+				

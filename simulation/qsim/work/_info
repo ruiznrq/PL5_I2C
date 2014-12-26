@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Quique\Dropbox\_Universidad\Diseño Digital Avanzado\PL5\simulation\qsim
+vI2Codec
+Z1 ISHZ`[aG^LBo3=F5XJfM<02
+Z2 V:mGS`mAB9W4iYdB2a@M^42
+Z3 dC:\Users\Quique\Dropbox\_Universidad\Diseño Digital Avanzado\PL5\simulation\qsim
+Z4 w1419605609
+Z5 8I2Codec.vo
+Z6 FI2Codec.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|I2Codec.vo|
+Z9 o-work work -O0
+Z10 n@i2@codec
+!i10b 1
+Z11 !s100 95P7;cYE4@5m@DFC>hX7L2
+!s85 0
+Z12 !s108 1419605609.677000
+Z13 !s107 I2Codec.vo|
+!s101 -O0
+vI2Codec_vlg_check_tst
+!i10b 1
+Z14 !s100 Vzk1L2GJ?Y9KVE?i:TiPF3
+Z15 IKPkFCZe?`gX8_lVhG3Vjl2
+Z16 VYK<IEg7g]2Yk^b<Y`?zdM1
+R3
+Z17 w1419605608
+Z18 8I2Codec.vt
+Z19 FI2Codec.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1419605609.737000
+Z21 !s107 I2Codec.vt|
+Z22 !s90 -work|work|I2Codec.vt|
+!s101 -O0
+R9
+Z23 n@i2@codec_vlg_check_tst
+vI2Codec_vlg_sample_tst
+!i10b 1
+Z24 !s100 hQgAIUgchMESlRkiToH`;2
+Z25 ICO]_Pz4C8I7VGHCTE1Dhf1
+Z26 Vk^E`l;@SzL[F26aPZB^=<2
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@i2@codec_vlg_sample_tst
+vI2Codec_vlg_vec_tst
+!i10b 1
+Z28 !s100 SB6fhOzNd^gUg7A?XAcY[0
+Z29 IIENIA:fzEg9Beb03SE[YY3
+Z30 VAZ9XPX5L6CUA:Z;AjVcgZ1
+R3
+R17
+R18
+R19
+Z31 L0 231
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@i2@codec_vlg_vec_tst
